@@ -1,3 +1,20 @@
+# SWEN 777 Software Quality Assurance Research Proposal
+
+## Team Members
+1. Ahir, Love
+2. Patel, Jheel
+3. Sajjala, Swetha
+
+## TOGA
+
+This is the fork of the original TOGA implementation hosted on microsoft Github. All the new changes made to the TOGA as part of SWEN 777 Research Project will be committed here.
+
+## Progress
+
+### Midterm Submission (Oct 29th 2024)
+
+As part of midterm submission, we've replicated TOGA results by evaluating the model on our local machines. The results are shown below.
+
 # ToGA Artifact
 
 This repository contains the replication artifact for TOGA: A Neural Method for Test Oracle Generation to appear in ICSE 2022.
