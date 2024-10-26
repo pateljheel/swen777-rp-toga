@@ -147,3 +147,8 @@ events.out.tfevents.*
 
 # Checkpoints
 checkpoints/
+
+# Custom files
+data/
+cached_*
+*.bin
